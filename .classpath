@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Jar/twitter/twitter4j-core-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/twitter/twitter4j-stream-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/facebook4j-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/joda-time-2.3-dist/joda-time-2.3/joda-time-2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
